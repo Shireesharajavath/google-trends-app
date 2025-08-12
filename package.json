@@ -1,0 +1,20 @@
+{
+  "name": "google-trends-app",
+  "version": "1.0.0",
+  "main": "googleTrendsController.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shireesharajavath/Google-Trends-App.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Shireesharajavath/Google-Trends-App/issues"
+  },
+  "homepage": "https://github.com/Shireesharajavath/Google-Trends-App#readme",
+  "description": ""
+}
